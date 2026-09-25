@@ -1,0 +1,8 @@
+{
+  "name": "Palu Bangkit: Kota di Antara Teluk & Pegunungan",
+  "description": "Sebuah persembahan narasi dan arsip kebangkitan Palu. Dari pesisir Teluk hingga puncak Pegunungan Gawalise, Palu bukan hanya bertahan: Palu tumbuh, Palu maju, Palu bangkit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
